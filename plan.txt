@@ -1,0 +1,28 @@
+1.basic start
+
+server
+express
+nodemon
+dotenv
+cors
+body-parser
+mongoose
+
+
+
+2.mongoose.connect
+
+
+
+3. routes.js
+
+
+
+
+
+
+0oa3zao1j2fll4wBC5d7               client id okta
+
+
+
+
